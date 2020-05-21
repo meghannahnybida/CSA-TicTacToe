@@ -15,7 +15,7 @@ public class Main1 {
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
         System.out.println("You: X, Computer: O");
         displayBoard(board);
-        System.out.println("Example input: entering 1 would put an X in the top left corner");
+        System.out.println("Example input: entering a 5 would put an X in the middle cell");
     }
     //initializes the appropriate amount of spaces for the board
     public static void displayBoard(char[][] board)
