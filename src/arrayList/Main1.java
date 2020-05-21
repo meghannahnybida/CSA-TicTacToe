@@ -57,7 +57,7 @@ public class Main1 {
                 System.out.println("Comp is thinking of its next move . . .");
                 Thread.sleep(1700); //a medium length wait time to simulate thinking
                 while(user.contains(entry) || comp.contains(entry)){
-                        entry = r.nextInt(9) + 1; //computer chooses its position randomly from 1 - 9. My multidimensional tic tac toe's AI is slightly more complex than this, but this is still good ! :)
+                        entry = r.nextInt(9) + 1; //computer chooses its position randomly from 1 - 9. My multidimensional tic tac toe's AI is slightly smarter than this, but this is still good ! :)
 
                 }
             }
