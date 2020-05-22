@@ -1,6 +1,6 @@
 # CSA-TicTacToe
  <h3> Project </h3>
- This project was to create two different tictactoe games: one using multidimensional arrays and one using arraylists.
+ The final Computer Science A project was to create two different tictactoe games: one using multidimensional arrays and one using arraylists.
  
  <h3> MultiDimensional </h3>
  
