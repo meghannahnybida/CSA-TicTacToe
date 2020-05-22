@@ -33,7 +33,7 @@
   
   <li> This screenshot displays the user on the verge of winning (but still of course in an intense battle). My favorite
       part about the arraylist version is the AI's "thinking simulation". After a user places an X, the AI waits a couple
-      second by using the Thread.sleep() to simulate real life opponent thinking. </li>
+      seconds by using Thread.sleep() to simulate real life opponent thinking. </li>
       
 
 <img width="322" alt="2 2" src="https://user-images.githubusercontent.com/49411343/82623945-0c835a00-9ba7-11ea-86ec-769ca2a02ed7.png">
