@@ -41,3 +41,6 @@
   <li> This screenshot shows the ending screen for the program. The user won this round, so an appropriate ending message 
       is displayed. The arraylist program uses lists within a String method to check for markers in a winning pattern. If a 
       winning pattern is found, the method returns the fitting String response. </li>
+      
+  <h3> Built With </h3>
+   The project was built entirely with IntelliJ.
