@@ -23,11 +23,11 @@ public class Main {
         //if the method winnerFound() finds a winner, it sends the winning piece (X or O) here
         if(decider == TicTacToe.userMarker){
             TicTacToe.displayBoard();
-            System.out.println("Congrats! You won!!!");
+            System.out.println("Congrats! You won!!!"); //X wins (user, you!)
         }
         else{
             TicTacToe.displayBoard();
-            System.out.println("You lost. Yikes...");
+            System.out.println("You lost. Yikes...");  //O wins (opponent)
         }
     }
 }
